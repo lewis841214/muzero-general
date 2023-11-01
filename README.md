@@ -1,3 +1,13 @@
+
+
+# Env setup
+conda create -n two048 --clone simplebaseline
+ray error:
+pip install aiohttp==3.7
+
+
+
+
 ![supported platforms](https://img.shields.io/badge/platform-Linux%20%7C%20Mac%20%7C%20Windows%20(soon)-929292)
 ![supported python versions](https://img.shields.io/badge/python-%3E%3D%203.6-306998)
 ![dependencies status](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
